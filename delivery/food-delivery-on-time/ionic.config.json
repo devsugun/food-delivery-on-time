@@ -1,0 +1,7 @@
+{
+  "name": "Food delivery on-time",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
